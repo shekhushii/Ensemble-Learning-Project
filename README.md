@@ -4,7 +4,7 @@
 This project compares multiple ensemble learning algorithms for classification.
 
 ## Models Used
-- Random Forest
+- Gradient Boosting
 - AdaBoost
 - XGBoost
 - Voting Classifier
@@ -16,8 +16,17 @@ This project compares multiple ensemble learning algorithms for classification.
 - Scikit-Learn
 - XGBoost
 
+
 ## Results
-XGBoost achieved the highest accuracy among all models.
+
+| Model | Accuracy |
+|--------|----------|
+| Gradient Boosting | 79.69% |
+| AdaBoost | 81.45% |
+| XGBoost | 77.64% |
+
+
+Best Performing Model: XGBoost
 
 ## How to Run
 
